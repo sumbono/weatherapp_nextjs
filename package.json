@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "8.0.3",
+    "next": "9.4.4",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-open-weather": "^0.4.0"
